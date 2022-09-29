@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xb2a6A65Ca3229c35B276F29e2b035a11E635100c",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb2a6A65Ca3229c35B276F29e2b035a11E635100c",
+  "NETWORK": {
+    "NAME": "mumbai",
+    "SYMBOL": "matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "soccerfans",
+  "SYMBOL": "soccerfans",
+  "MAX_SUPPLY": 1574,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 585000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/soccerfans-v3",
+  "SHOW_BACKGROUND": true
+}
+
+
